@@ -2,6 +2,7 @@
 package java_atividades;
 
 // 6. Crie um algoritmo que lê dois números, X e Y, e mostra o resto da divisão entre eles
+//Respondida por: Lanna Feitoza
 
 import java.util.Scanner;
 

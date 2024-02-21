@@ -2,6 +2,7 @@
 package java_atividades;
 
 // 7. Crie um algoritmo que lê o salário de um funcionário, reajusta o salário em 7% e mostra o resultado.
+//Respondida por: Lanna Feitoza
 
 import java.util.Scanner;
 

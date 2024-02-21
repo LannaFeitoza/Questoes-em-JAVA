@@ -2,6 +2,7 @@
 package java_atividades;
 
 //2. Crie um algoritmo que leia um número inteiro e mostre seu sucessor
+//Respondida por: Lanna Feitoza
 
 import java.util.Scanner;
 

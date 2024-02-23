@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-// 5. Crie um algoritmo que leia uma idade de uma pessoa e calcule quantos dias essa pessoa já viveu
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 5. Crie um algoritmo que leia uma idade de uma pessoa e calcule quantos dias essa pessoa já viveu.
 
 import java.util.Scanner;
  

@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-// 1. Crie um algoritmo que escreve o seu nome completo, colocando uma palavra em cada linha
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 1. Crie um algoritmo que escreve o seu nome completo, colocando uma palavra em cada linha.
 
 public class Questao01 {
     public static void main(String[] args){

@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-// 14. Crie um algoritmo que leia dois valores (x e y) e informe se eles são iguais.
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 14. Crie um algoritmo que leia dois valores (x e y) e informe se eles são iguais.
 
 import java.util.Scanner;
 

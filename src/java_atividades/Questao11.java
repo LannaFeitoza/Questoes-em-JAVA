@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-//11. Crie um algoritmo que leia uma frase do usuário e escreva na tela exatamente o que o usuário digitar
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 11. Crie um algoritmo que leia uma frase do usuário e escreva na tela exatamente o que o usuário digitar.
 
 import java.util.Scanner;
 

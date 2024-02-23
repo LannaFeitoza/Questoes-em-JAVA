@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-//15. Crie um algoritmo que leia dois valores (x e y) e informe qual o maior valor
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 15. Crie um algoritmo que leia dois valores (x e y) e informe qual o maior valor.
 
 import java.util.Scanner;
 

@@ -1,10 +1,11 @@
 
 package java_atividades;
 
-/*8. Crie um algoritmo que lê um valor real em dólar, e converte o valor para reais. 
-Considere que a cotação é US$ 1 = R$ 1,82
+/*
+Autora: Lanna Feitoza
+Enunciado: 8. Crie um algoritmo que lê um valor real em dólar, e converte o valor para reais. 
+Considere que a cotação é US$ 1 = R$ 1,82.
 */
-//Respondida por: Lanna Feitoza
 
 import java.util.Scanner;
 import java.text.NumberFormat;

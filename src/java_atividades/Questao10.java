@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-// 10. Crie um algoritmo que leia o primeiro nome do usuário e escreva uma saudação para ele
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 10. Crie um algoritmo que leia o primeiro nome do usuário e escreva uma saudação para ele.
 
 import java.util.Scanner;
 

@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-//13. Crie um algoritmo que leia um número do usuário e informe se e o número é positivo ou negativo
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 13. Crie um algoritmo que leia um número do usuário e informe se e o número é positivo ou negativo.
 
 import java.util.Scanner;
 

@@ -1,8 +1,8 @@
 
 package java_atividades;
 
-// 4. Crie um algoritmo que lê dois números inteiros, X e Y, e mostre o resultado da multiplicação de x por y.
-//Respondida por: Lanna Feitoza
+//Autora: Lanna Feitoza
+//Enunciado: 4. Crie um algoritmo que lê dois números inteiros, X e Y, e mostre o resultado da multiplicação de x por y.
 
 import java.util.Scanner;
 

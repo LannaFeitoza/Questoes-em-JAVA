@@ -6,9 +6,9 @@ package java_atividades;
 
 public class Questao01 {
     public static void main(String[] args){
-    System.out.println("Lanna");
-    System.out.println("Eduarda");
-    System.out.println("Pimenta");
+    System.out.print("Lanna\n");  // Aqui o \n pula uma linha, usei ele porque o código usa apenas print.
+    System.out.println("Eduarda"); // Neste caso usei o println, ele pula uma linha sem eu ter colocado o \n.
+    System.out.print("Pimenta\n");
     System.out.println("Feitoza");
     }
 }

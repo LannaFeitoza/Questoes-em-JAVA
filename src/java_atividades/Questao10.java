@@ -15,6 +15,9 @@ public class Questao10{
         System.out.print("Digite seu nome: ");
         nome = teclado.nextLine();
         
-        System.out.println("Seja bem-vindo " + nome + "!");    
+        System.out.println("Seja bem-vindo " + nome + "!");  
+        
+        // Poderia ser usado assim também:
+        // System.out.format("Seja bem-vindo: %s\n!", nome);
     }
 }

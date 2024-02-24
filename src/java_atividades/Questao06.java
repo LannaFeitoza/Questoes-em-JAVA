@@ -18,7 +18,7 @@ public class Questao06{
     System.out.print("\nDigite um valor inteiro para Y: ");
     Y = leitura.nextInt();
     
-    resto = X % Y;
+    resto = X % Y; // Esse operador "%" mostra o resto da divisão. Por exemplo, 10 dividido por 3 tem resto 1.
     
     System.out.println("\nO resto entre " + X + " e " + Y + ": " + resto);
     }

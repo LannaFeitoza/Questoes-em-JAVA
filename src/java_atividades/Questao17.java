@@ -6,9 +6,6 @@ package java_atividades;
  * Enunciado: 17. Escreva um algoritmo que leia uma letra que represente o sexo de uma pessoa (M para Masculino e F para 
  * feminino). Se for masculino, mostra a mensagem “Seja bem-vindo, Senhor!”, se for feminino, mostra a mensagem “Seja 
  * bem-vinda, Senhora!”
- * 
- * A partir de agora irei criar funções para as questões, ou seja, não irei mais fazer todo o código na função
- * principal!
  */
 
 import java.util.Scanner;

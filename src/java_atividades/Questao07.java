@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class Questao07{
     public static void main(String[] args){
-    
     Scanner entrada = new Scanner(System.in);
     float salario; // Como salário não é um valor inteiro, declarei como float.
     

@@ -2,7 +2,7 @@
 - - -
 ### Sobre o desenvolvimento das respostas das questões:
 Todo dia irei postar alguma questão resolvida por mim em JAVA!
-Até o momento desenvolvi as respostas até a questão 20.
+Até o momento desenvolvi as respostas até a questão 23.
 
 ---
 ### Lista de 50 questões:
@@ -15,3 +15,4 @@ Vale lembrar que no pdf possui gabarito em JAVA e em Portugol.
 - Operadores aritméticos, entrada e saída de dados: Questão 1 até 12;
 - Comandos de Decisão: Questão 13 até 23;
 - Comandos de Repetição: Questão 24 até 50.
+---

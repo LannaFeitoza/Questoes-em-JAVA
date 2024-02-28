@@ -2,7 +2,7 @@
 - - -
 ### Sobre o desenvolvimento das respostas das questões:
 Todo dia irei postar alguma questão resolvida por mim em JAVA!
-Até o momento desenvolvi as respostas até a questão 23.
+Até o momento desenvolvi as respostas até a questão 26.
 
 ---
 ### Lista de 50 questões:
